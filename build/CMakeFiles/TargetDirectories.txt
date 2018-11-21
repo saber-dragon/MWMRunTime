@@ -1,0 +1,3 @@
+/home/gtuser/GitHub/MWMExecution/build/CMakeFiles/rebuild_cache.dir
+/home/gtuser/GitHub/MWMExecution/build/CMakeFiles/measure.dir
+/home/gtuser/GitHub/MWMExecution/build/CMakeFiles/edit_cache.dir

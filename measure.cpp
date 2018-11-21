@@ -41,7 +41,7 @@ void serena_measure(){
 
         SERENA serena_obj{std::move(Sr), std::move(Sg)};
 
-        auto T = MAX_N / n;
+        auto T = 50 * MAX_N / n;
         auto start = std::chrono::steady_clock::now();
         for ( int t = 0;t < T;++ t ) serena_obj.run(W);
         auto duration = chrono::duration_cast<chrono::milliseconds>

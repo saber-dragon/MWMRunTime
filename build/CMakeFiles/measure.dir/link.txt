@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/measure.dir/measure.cpp.o  -o measure -larmadillo -lfmt 
