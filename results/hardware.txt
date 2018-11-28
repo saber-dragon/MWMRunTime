@@ -1,0 +1,62 @@
+cpu:
+                       Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, 3794 MHz
+                       Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, 3794 MHz
+                       Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, 3789 MHz
+                       Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, 3795 MHz
+                       Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, 3766 MHz
+                       Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, 3775 MHz
+                       Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, 3775 MHz
+                       Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, 3780 MHz
+keyboard:
+  /dev/input/event4    Dell KB216 Wired Keyboard
+mouse:
+  /dev/input/mice      Microsoft Basic Optical Mouse v2.0
+monitor:
+                       DELL E228WFP
+                       DELL U2312HM
+graphics card:
+                       Intel HD Graphics 530
+sound:
+                       Intel Sunrise Point-H HD Audio
+storage:
+                       Intel Sunrise Point-H SATA controller [AHCI mode]
+network:
+  enp0s31f6            Intel Ethernet Connection (2) I219-LM
+network interface:
+  lo                   Loopback network interface
+  enp0s31f6            Ethernet network interface
+  docker0              Ethernet network interface
+disk:
+  /dev/sdb             HGST HTS721010A9
+  /dev/sda             SAMSUNG SSD PM87
+partition:
+  /dev/sdb1            Partition
+  /dev/sdb2            Partition
+  /dev/sda1            Partition
+  /dev/sda2            Partition
+usb controller:
+                       Intel Sunrise Point-H USB 3.0 xHCI Controller
+bios:
+                       BIOS
+bridge:
+                       Intel Sunrise Point-H PCI Express Root Port #1
+                       Intel Sunrise Point-H LPC Controller
+                       Texas Instruments XIO2001 PCI Express-to-PCI Bridge
+                       Intel Skylake PCIe Controller (x16)
+                       Intel Skylake Host Bridge/DRAM Registers
+hub:
+                       Linux Foundation 2.0 root hub
+                       Linux Foundation 3.0 root hub
+memory:
+                       Main Memory
+unknown:
+                       FPU
+                       DMA controller
+                       PIC
+                       Keyboard controller
+                       Intel Sunrise Point-H PMC
+                       Intel Sunrise Point-H CSME HECI #1
+                       Intel Sunrise Point-H Thermal subsystem
+                       Intel Sunrise Point-H SMBus
+                       Serial controller
+  /dev/input/event5    Dell KB216 Wired Keyboard

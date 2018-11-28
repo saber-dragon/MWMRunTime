@@ -33,8 +33,10 @@ public:
         auto n = Sr.size();
         int i, j, c = 0;
         int wr , wg;
+        int i_bk = 0;
         while ( visited.count() < n ) {
-            for ( i = 0;i < n && visited.test(i) ;++ i ) ;
+            for ( i = i_bk;i < n && visited.test(i) ;++ i ) ;
+            i_bk = i + 1;
             wr = 0;
             wg = 0;
 
